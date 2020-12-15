@@ -1,5 +1,5 @@
 # project-elixir
-Integrated PHR system for InOUT
+Integrated Public Medical Repository System for InOut 7.0
 
 ![ScreenShot 1](https://github.com/007vedant/project-elixir/blob/main/imgs/elixir1.png)
 ![ScreenShot 2](https://github.com/007vedant/project-elixir/blob/main/imgs/elixir2.png)
